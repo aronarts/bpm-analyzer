@@ -1,6 +1,14 @@
+*.wav
+*.mp3
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# zipped stuff #
+*.zip
+
+# documentation #
+/JTransforms
